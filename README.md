@@ -1,8 +1,8 @@
-# 🚀 DevOps VProfile Monolithic Project
+# 🚀 Proyecto VProfile Monolítico On-Premise
 
 # Introducción
 
-## 🧱 VProfile Project - Configuración Local (Manual)
+## 🧱 VProfile Project
 
 ## 1.- 🎯 Objetivo del Proyecto
 
@@ -15,7 +15,7 @@ Este proyecto del curso de *"DevOps Beginners to Advanced with projects"* de **I
     -   Despliegue en clúster Kubernetes.
     -   Automatización.
  
-2.  **Montar un laboratorio local** para R&D (Investigación y Desarrollo):
+2.  **Montar un laboratorio local (On-Premise)** para R&D (Investigación y Desarrollo):
     -   Reproducción de entornos reales con múltiples servicios.
     -   Práctica segura sin afectar servidores productivos.
     -   Confianza en cambios e implementaciones.
